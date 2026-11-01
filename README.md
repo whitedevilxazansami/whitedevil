@@ -4,6 +4,9 @@
 
 ---
 
+### 📌 Repository Overview
+This repository is an introductory profile and cybersecurity-focused portfolio, highlighting my journey, certifications, links, and interests in ethical hacking and security research.
+
 ### 🔍 About Me
 Hi, I’m Azan Sami from Pakistan. I’m a cybersecurity student with a strong interest in ethical hacking, security research, and secure software. My mission is to learn, build, and contribute to a safer digital world by improving systems, understanding vulnerabilities, and helping others grow in the field of cybersecurity.
 
