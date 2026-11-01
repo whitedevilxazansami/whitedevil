@@ -24,6 +24,7 @@ Hi, I’m Azan Sami from Pakistan. I’m a cybersecurity student with a strong i
 ### 🏅 Certifications
 [![Certificate 1](https://img.shields.io/badge/Certificate-1-4CAF50?style=for-the-badge&logo=shield&logoColor=white)](https://kommodo.ai/i/9mlK5nsYWdCsxR3QO8TJ)
 [![Certificate 2](https://img.shields.io/badge/Certificate-2-2196F3?style=for-the-badge&logo=shield&logoColor=white)](https://kommodo.ai/i/DnX1Vs1qiTqZjea9o1aM)
+[![Certificate 3](https://img.shields.io/badge/Certificate-3-FF9800?style=for-the-badge&logo=shield&logoColor=white)](https://kommodo.ai/i/XkZ9xBjsBBRJGXAe5jvF)
 
 ### 📈 Activity Matrix
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whitedevilxazansami)
