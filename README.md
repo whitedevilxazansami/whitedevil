@@ -5,8 +5,13 @@
 ---
 
 ### 🔍 About Me
+Hi, I’m Azan Sami from Pakistan. I’m a cybersecurity student with a strong interest in ethical hacking, security research, and secure software. My mission is to learn, build, and contribute to a safer digital world by improving systems, understanding vulnerabilities, and helping others grow in the field of cybersecurity.
+
 - 🔭 **Current Focus:** Penetration testing, vulnerability research, and malware analysis.
 - 🎯 **Mission:** Finding critical security bugs and hardening architectures before malicious actors do.
+- 🌍 **Location:** Pakistan
+- 🧠 **Role:** Cybersecurity Student
+- 🏆 **Identity:** Hacktober enthusiast / championist
 - ⚡ **Persona:** Operates in the intersection of defensive engineering and offensive tactics.
 
 ### 🛠️ Cyber Toolkit & Tech Stack
@@ -30,4 +35,5 @@
 - 📧 **Reach out via:** [whitedevilxazansami@gmail.com](mailto:whitedevilxazansami@gmail.com)
 - 🐙 **GitHub:** [@whitedevilxazansami](https://github.com/whitedevilxazansami)
 - 📸 **Instagram:** [@whitedevil_x_azanullah](https://instagram.com/whitedevil_x_azanullah)
+- 📝 **Dev.to:** [Azan Ullah](https://dev.to/azan_ullah_da531bae502636)
 
