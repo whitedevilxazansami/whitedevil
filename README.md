@@ -29,4 +29,5 @@
 - 💬 **Ask me about:** Network auditing, password cracking methodologies, or security compliance.
 - 📧 **Reach out via:** [whitedevilxazansami@gmail.com](mailto:whitedevilxazansami@gmail.com)
 - 🐙 **GitHub:** [@whitedevilxazansami](https://github.com/whitedevilxazansami)
+- 📸 **Instagram:** [@whitedevil_x_azanullah](https://instagram.com/whitedevil_x_azanullah)
 
